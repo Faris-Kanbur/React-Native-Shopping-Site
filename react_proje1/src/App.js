@@ -49,8 +49,8 @@ const styles = StyleSheet.create({
     
   },
   logo:{
-    width: 200,
-    height: 200,
+    width: 205,
+    height: 205,
   },
 
   text:{
@@ -58,13 +58,13 @@ const styles = StyleSheet.create({
     fontFamily: 'times',
     fontWeight: 'bold',
     color: '#c76b11',
-    letterSpacing: 5,
+    letterSpacing: 6,
   },
   mailpassword:{
     margin: 10,
     backgroundColor: 'white',
     width: 360,
-    borderRadius: 4,
+    borderRadius: 5,
   },
 
   login:{
@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     width: 360,
     backgroundColor: '#b4004e',
     height: 50,
-    borderRadius: 4,
+    borderRadius: 5,
 
   },
   logintext:{
